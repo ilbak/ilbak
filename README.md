@@ -1,8 +1,7 @@
 ### ...Ciao! 👋
 
 - 💬 Ask me about Loom
-- 📫 WWW: www.ilbak.it
-- 😄 About me: www.ilbak.it/about/
+- 😄 About me: www.ilbak.it/@about
 
 
 <!--
