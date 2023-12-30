@@ -1,7 +1,7 @@
 ### ...Ciao! 👋
 
 - 💬 Ask me about Loom
-- 😄 About me: www.ilbak.it/@about
+- 😄 About me: <a href='https://www.ilbak.it'>www.ilbak.it</a>
 
 
 <!--
